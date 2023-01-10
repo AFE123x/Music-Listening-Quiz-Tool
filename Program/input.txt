@@ -1,4 +1,4 @@
-2*insert amount of pieces you want*
+*insert amount of pieces you want*
 composer;piece name;time period;Piece type;year;audiofile;minxxsecxx;
 composer;piece name;time period;Piece type;year;audiofile;minxxsecxx;
 
