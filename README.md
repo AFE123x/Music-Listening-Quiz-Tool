@@ -14,7 +14,7 @@ ex)
 -minxxsecxx is where you put in the length of the audio file. if the piece is less than 10 minutes, you must add a 0 in the first digit (for example, min03sec05).
 -The format must be exact. For example, you'll run into many problems if you miss a semicolon.
 
-###Running the program
+### Running the program
 To run the program, click the .bat file.
 -Once the program opens up, you'll be asked to provide the path to the folder containing the audio and input files. 
     *One issue you may encounter when you input the location is that the program may close or provide following error:
@@ -30,6 +30,6 @@ To run the program, click the .bat file.
     * didn't put the audiofiles in the same folder as input.txt.
     
     
-####Will I ever create a GUI form of this program? 
+#### Will I ever create a GUI form of this program? 
 I'm planning on this, but I'll have to learn how to program GUIs first. 
 
