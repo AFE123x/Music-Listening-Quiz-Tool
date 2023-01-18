@@ -1,4 +1,4 @@
-# Music-Listening-Quiz-Tool
+# Music Listening Quiz Tool
 ### What is this program?
 This program is meant to be a study tool for listening quizzes found in music classes. 
 ### How to use program?
