@@ -3,7 +3,7 @@
 This program is meant to be a study tool for listening quizzes found in music classes. 
 ### How to use program?
 -Acquire the audio files you want to implement in program (They must be .wav files)<br>
--In the input.txt, you'll write the ammount of pieces you want to implement on the top line. After that, you can fill out the repertoire in the following format:
+-In the input.txt, you'll write the amount of pieces you want to implement on the top line. After that, you can fill out the repertoire in the following format:
 <br><br>
 composer;piece name;time period;Piece type;year;audiofile.wav;minxxsecxx;
 <br><br>
